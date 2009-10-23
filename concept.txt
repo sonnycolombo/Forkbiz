@@ -20,14 +20,15 @@ tagline - "Fork You. Open your mind. Open your business."
 			- fork of a product
 			- All of these fork points need to be defined and price points for each
 			
-* Business Tool Integration (Lets NOT reinvent the wheel)
-	- Documentation management - Google Docs
-	- Project management
-	- Marketing and communication
-	- HR
-	- Hosting
-	- Content Delivery
-	- Source Control
-	..ect
+* Business Tool Integration (Lets NOT reinvent the wheel, if possible using APIS)
+	- EMail - Google Hosted E-Mail (http://www.google.com/a/)
+	- Documentation management - Google Docs (http://code.google.com/apis/documents/overview.html)
+	- Website - Google Sites, Godaddy site builder, CMS? (No APIS)
+	- Source Control - Git Hub (http://github.com/guides/the-github-api)
+	- Open Source Project management - SourceForge (Link off to register project)
+	- Marketing and communication - Facebook, Twitter (APIS's available)
+	- HR/recuriting - linkedin.com, glassdoor.com (Custom API available, no public)
+	- Hosting- Google App Engine (Not worried about yet)
+	- Content Delivery - Amazon & Other CDNS (Not worried yet)
 	
 * not sure how this will look, but these are just ideas for now.
