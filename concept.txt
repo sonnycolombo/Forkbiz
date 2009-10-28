@@ -2,33 +2,53 @@ Business/Mission statement: "A website that connect business to online tools whi
 slogan - "Only Do Good"
 tagline - "Fork You. Open your mind. Open your business."
 
-
 * Main Page
 - Directory listing of business; categorized and searchable
 - Uses cases for home page
-	- End user - Finding information about businesses
-	- End user - Finding a business to fork from
-	- End user - Learn about products (marketing)
-	- End user - Rate & Review products
-	- End user - Discuss company
+	- End user 
+          - Finding information about businesses
+	  - Finding a business to fork from
+	  - Learn about products (marketing)
+	  - Rate & Review products
+	  - Discuss company
+	 
+# TODO: define price points for items below
+
+	- Business partner
+          - Make information public; allows for transparency
+	    - Improve public image
+            - Attract potential employees 
+          - Create opportunities for forking
+	    - Fork people : Consulting positions
+              - Transfer knowledge from company to company
+              - Sell consulting services 
+  	    - Fork business:  Startups
+              - Turn internal work into a side business
+              - Parent business has stake in startup
+ 	    - Fork product 
+                - Traditional open source
+                  - Open a new project to the world
+                  - Adopt an existing project as a maintainer
+                  - Just use forkbiz for promotion
+                - Trusted open source
+                  - Open source but with the official backing of a business
+                    - Opposite of projects from some random guy in a random place
+                    - Tighter control on contributions
+                  - Safer for businesses to adopt 
+                    - Addresses quality & security concerns            
+                    - Coupled with support contracts or reliability guarantees
+                    - Adequate documentation  
+		- Joint projects
+                  - Potentially closed source between predefined group of organizations
+                  - Strategic interest to collaborate
 	
-	- Business partner - Make information public; allows for transparency
-	- Business partner - Create opportunities for forking
-		- Fork use cases
-			- Consulting positions
-			- Startups (clone of business)
-			- fork of a product
-			- All of these fork points need to be defined and price points for each
-			
-* Business Tool Integration (Lets NOT reinvent the wheel, if possible using APIS)
-	- EMail - Google Hosted E-Mail (http://www.google.com/a/)
+* Business Tool Integration (Lets NOT reinvent the wheel, if possible using APIs)
+	- E-Mail - Google Hosted E-Mail (http://www.google.com/a/)
 	- Documentation management - Google Docs (http://code.google.com/apis/documents/overview.html)
 	- Website - Google Sites, Godaddy site builder, CMS? (No APIS)
 	- Source Control - Git Hub (http://github.com/guides/the-github-api)
 	- Open Source Project management - SourceForge (Link off to register project)
 	- Marketing and communication - Facebook, Twitter (APIS's available)
-	- HR/recuriting - linkedin.com, glassdoor.com (Custom API available, no public)
+	- HR/recruiting - linkedin.com, glassdoor.com (Custom API available, no public)
 	- Hosting- Google App Engine (Not worried about yet)
 	- Content Delivery - Amazon & Other CDNS (Not worried yet)
-	
-* not sure how this will look, but these are just ideas for now.
