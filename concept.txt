@@ -1,20 +1,17 @@
-Business/Mission statement: "A website that connect business to online tools which enables continuous innovation."
+Business/Mission statement: "A website that connect business to online tools which enables transparency."
 slogan - "Only Do Good"
 tagline - "Fork You. Open your mind. Open your business."
 
-* Main Page
-- Directory listing of business; categorized and searchable
+* Home Page
+- Newsfeed of business/customizable portal of components.
 - Uses cases for home page
-	- End user 
-          - Finding information about businesses
-	  - Finding a business to fork from
-	  - Learn about products (marketing)
-	  - Rate & Review products
-	  - Discuss company
-	 
-# TODO: define price points for items below
-
-	- Business partner
+	- End user
+          - Finding information about businesses of interest
+		  - Learn about products (marketing)
+		  - Rate & Review products
+		  - Discuss company
+		  - Finding a business to fork from (Low priority)
+	- Communication tool for business via existing communication tools
           - Make information public; allows for transparency
 	    - Improve public image
             - Attract potential employees 
@@ -22,10 +19,10 @@ tagline - "Fork You. Open your mind. Open your business."
 	    - Fork people : Consulting positions
               - Transfer knowledge from company to company
               - Sell consulting services 
-  	    - Fork business:  Startups
+  	    - Fork business:  Startups (Low priority)
               - Turn internal work into a side business
               - Parent business has stake in startup
- 	    - Fork product 
+ 	    - Fork product (Low priority)
                 - Traditional open source
                   - Open a new project to the world
                   - Adopt an existing project as a maintainer
@@ -38,17 +35,20 @@ tagline - "Fork You. Open your mind. Open your business."
                     - Addresses quality & security concerns            
                     - Coupled with support contracts or reliability guarantees
                     - Adequate documentation  
-		- Joint projects
+		- Joint projects (Low priority)
                   - Potentially closed source between predefined group of organizations
                   - Strategic interest to collaborate
 	
-* Business Tool Integration (Lets NOT reinvent the wheel, if possible using APIs)
-	- E-Mail - Google Hosted E-Mail (http://www.google.com/a/)
-	- Documentation management - Google Docs (http://code.google.com/apis/documents/overview.html)
+* Business Tool Integration (Order of priority, Lets NOT reinvent the wheel, if possible using APIs)
+	Integrate with if possible
+	- Marketing and communication - Facebook, Twitter (APIS's available)
+	- HR/recruiting - linkedin.com, glassdoor.com (Custom API available, no public)
+	
+	Can't really integrate with, but can link off to
 	- Website - Google Sites, Godaddy site builder, CMS? (No APIS)
 	- Source Control - Git Hub (http://github.com/guides/the-github-api)
 	- Open Source Project management - SourceForge (Link off to register project)
-	- Marketing and communication - Facebook, Twitter (APIS's available)
-	- HR/recruiting - linkedin.com, glassdoor.com (Custom API available, no public)
 	- Hosting- Google App Engine (Not worried about yet)
+	- E-Mail - Google Hosted E-Mail (http://www.google.com/a/)
+	- Documentation management - Google Docs (http://code.google.com/apis/documents/overview.html)
 	- Content Delivery - Amazon & Other CDNS (Not worried yet)
