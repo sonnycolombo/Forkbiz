@@ -1,4 +1,7 @@
 Business/Mission statement: "A website that connect business to online tools which enables transparency."
+
+Devil's advocate:  As a business, why do I care about transparency?
+
 slogan - "Only Do Good"
 tagline - "Fork You. Open your mind. Open your business."
 
@@ -29,21 +32,52 @@ tagline - "Fork You. Open your mind. Open your business."
                   - Just use forkbiz for promotion
                 - Trusted open source
                   - Open source but with the official backing of a business
-                    - Opposite of projects from some random guy in a random place
-                    - Tighter control on contributions
+                  - Opposite of projects from some random guy in a random place
+                  - Tighter control on contributions
                   - Safer for businesses to adopt 
                     - Addresses quality & security concerns            
                     - Coupled with support contracts or reliability guarantees
                     - Adequate documentation  
 		- Joint projects (Low priority)
-                  - Potentially closed source between predefined group of organizations
+          - Potentially closed source between predefined group of organizations
                   - Strategic interest to collaborate
-	
+
 * Business Tool Integration (Order of priority, Lets NOT reinvent the wheel, if possible using APIs)
+	Rationale
+	- Open your business >> Find points of collaboration with others
+		- Understand STRENGTHS and NEEDS of your and other companies
+		- Factor strengths and needs to collaborate
+			- Example
+				- Hardware manufacturer 
+					- Knows hardware well 
+					- Limited experience with software API design
+				- Software company find manufacturer with Forkbiz
+				- Software company
+					- Uses manufacturer's stuff for product
+					- Makes easier object-oriented C++ API for hardware
+					- Provides OO API back to manufacturer to collaborate
+				- Manufacturer
+					- Publishes OO API to all customers
+					- Collaborates with customers to maintain OO API
+						- Draw from diverse experiences
+							- Practical applications of hardware
+							- Varying development environments	
+					- Gives special deals to those who collaborate 
+				- Everyone wins!
+	- Social networking tools such as Twitter not targeted at businesses
+	- Aggregate tools to view public activities of other companies
+		- Get to "know" them
+	- Geo-targeting
+		- Find collaboration opportunities in your area
+	- Domain experience
+		- Find collaboration opportunities in your field of expertise
+	
 	Integrate with if possible
 	- Marketing and communication - Facebook, Twitter (APIS's available)
-	- HR/recruiting - linkedin.com, glassdoor.com (Custom API available, no public)
-	
+	- HR/recruiting 
+      - linkedin.com
+      - glassdoor.com (Custom API available, no public)
+
 	Can't really integrate with, but can link off to
 	- Website - Google Sites, Godaddy site builder, CMS? (No APIS)
 	- Source Control - Git Hub (http://github.com/guides/the-github-api)
